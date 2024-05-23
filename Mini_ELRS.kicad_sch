@@ -2504,10 +2504,10 @@
   (symbol (lib_id "MCU_Espressif:ESP8266EX") (at 66.675 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 85e78923-8588-4c12-be82-1339495de1d9)
-    (property "Reference" "U1" (id 0) (at 68.6944 106.045 0)
+    (property "Reference" "U1" (id 0) (at 68.6944 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "ESP8266EX" (id 1) (at 68.6944 108.585 0)
+    (property "Value" "ESP8285" (id 1) (at 68.6944 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm" (id 2) (at 66.675 111.125 0)
@@ -3254,7 +3254,7 @@
       (reference "R6") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/85e78923-8588-4c12-be82-1339495de1d9"
-      (reference "U1") (unit 1) (value "ESP8266EX") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm")
+      (reference "U1") (unit 1) (value "ESP8285") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm")
     )
     (path "/834aa2b6-a999-41a3-bbad-701366e676b1"
       (reference "U2") (unit 1) (value "TC2014-3.3VxCTTR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
